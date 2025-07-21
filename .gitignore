@@ -11,6 +11,6 @@ __pycache__/
 # Ignore archives
 *.zip
 
-# Ignore large data files (optional)
-*.csv
-*.xlsx
+# # Ignore large data files (optional)
+# *.csv
+# *.xlsx
