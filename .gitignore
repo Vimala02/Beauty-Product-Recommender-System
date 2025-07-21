@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore OS files
+.DS_Store
+
+# Ignore archives
+*.zip
+
+# Ignore large data files (optional)
+*.csv
+*.xlsx
